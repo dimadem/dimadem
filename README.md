@@ -1,5 +1,5 @@
 <h1 align="center">Dima Dem</h1>
-<h3 align="center">A juniour frontend developer from London</h3>
+<h3 align="center">Juniour frontend developer from London</h3>
 
 - 🌱 I’m currently learning **react, p5js, next**
 
