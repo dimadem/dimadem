@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dima</h1>
+<h1 align="center">Dima Dem</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
 - 🌱 I’m currently learning **react, p5js, next**
