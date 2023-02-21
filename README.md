@@ -1,7 +1,7 @@
 <h1 align="center">Dima Dem</h1>
-<h3 align="center">Juniour frontend developer from London</h3>
+<h3 align="center">Creative frontend developer from London</h3>
 
-- 🌱 I’m currently learning **react, p5js, next**
+- 🌱 Currently build **nft project**
 
 - 👨‍💻 All of my projects are available at [https://dimadem.notion.site/Portfolio-068523977ddc4ee3b0700c3d97055815](https://dimadem.notion.site/Portfolio-068523977ddc4ee3b0700c3d97055815)
 
