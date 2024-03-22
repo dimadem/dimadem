@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - modern design solutions on the frontend<br>🌱 I’m currently learning - C, C++
+🔭 working on - modern solutions for the frontend<br>🌱 learning - C, C++
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dimadem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
